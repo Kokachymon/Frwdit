@@ -7,7 +7,7 @@ Only Give Permission In your Telegram Personal Channel
 ```
 Please fork this repository don't import code
 Made with Python3
-(C) @DforDarkAngel
+(C) @aexter999
 Copyright permission under GNU GENERAL PUBLIC LICENSE
 ```
 
@@ -43,5 +43,5 @@ python3 main.py
 
 ### Credits
 
-* [Pyrogram](https://github.com/pyrogram/pyrogram)
+* [Pyrogram](https://github.com/Kokachymon/Kokachymon)
 * `Special Thanks Dump Group Members`🤣
